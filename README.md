@@ -1,8 +1,8 @@
 ## Hi there, I'm AJ! 👋
 
-I'm a Computer Science student at Washington and Lee University with a strong interest in IT systems, cybersecurity and cloud infrastructure
+I'm a Computer Science student at Washington and Lee University with a strong interest in IT systems, cybersecurity and cloud infrastructure.
 
-I'm working on cloud projects and labs focused on Virtual Machines, Virtual Networking, and application deployment as well as Python projects centered on automation and IT tooling 
+I'm working on cloud projects and labs focused on Virtual Machines, Virtual Networking, and application deployment as well as Python projects centered on automation and IT tooling.
 
 I am working toward a career in systems administration, cloud engineering, or cloud security roles. My current focus is strengthening my foundation in IT fundamentals, cloud services, automation, and security while continuing to build and refine hands-on projects.
 
